@@ -2,10 +2,10 @@
 # Dataset
 population.csv : Contains population records from 1960 to 2022.
 # Tools and Libraries Used
-Jupyter Notebook
-Pandas
-Numpy
-Matplotlib & Seaborn
+* Jupyter Notebook
+* Pandas
+* Numpy
+* Matplotlib & Seaborn
 # Exploratory Data Analysis (EDA)
 Data Cleaning:
 
