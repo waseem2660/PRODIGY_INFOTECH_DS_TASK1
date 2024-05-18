@@ -11,7 +11,8 @@ population.csv : Contains population records from 1960 to 2022.
 * Removed duplicates.
 
 2.Visualization:
-Bar Chart illustrated population selected countries in 2022.
+
+* Bar Chart illustrated population selected countries in 2022.
 
 # Conclusion
 
