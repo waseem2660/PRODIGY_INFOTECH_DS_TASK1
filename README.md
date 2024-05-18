@@ -1,7 +1,7 @@
 # PRODIGY_INFOTECH_DS_TASK1
 Data Science Internship Task 1 Submission
 # Dataset
-population.dataset: Contains population records from 2001 to 2022.
+population.csv : Contains population records from 1960 to 2022.
 # Tools and Libraries Used
 Jupyter Notebook
 Pandas
